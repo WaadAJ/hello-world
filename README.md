@@ -1,4 +1,4 @@
-![Waad Aljehani Banner Image](./banner.png)
+![Waad Aljehani Banner Image](./bannerimg.png)
 <!-- <h2 align='center'>Waad Aljehani</h2>
 <p align='center'><b>Data Science and Analysis Student at University of Jeddah</b></p> -->
 
